@@ -6,6 +6,7 @@
 
 
 How to use:
+
 Download the hand_finger_count.ipynb using this command:
 ```
 curl -o hand_finger_count.ipynb https://github.com/pbcong/hand_finger_counter/blob/main/hand_finger_count.ipynb
