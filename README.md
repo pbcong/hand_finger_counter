@@ -13,7 +13,7 @@ curl -o hand_finger_count.ipynb https://github.com/pbcong/hand_finger_counter/bl
 ```
 Install the dependencies (if needed):
 ```
-pip install opencv-python, mediapipe, numpy
+pip install opencv-python mediapipe numpy
 ```
 
 And run the codes!
